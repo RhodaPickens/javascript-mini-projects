@@ -2,7 +2,9 @@
 
 Welcome to my repository of mini-projects built entirely using HTML, CSS, and Vanilla JavaScript
 
-![Form Validator Screenshot](./screenshot.png)
+<div align="center">
+    <img src="./screenshot.png" width="300" alt="Form Validator Screenshot" />
+</div>
 
 ## Live Demo
 
